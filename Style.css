@@ -28,3 +28,10 @@ p {
 img {
     width: 1000px;
 }
+li a:hover:not(.active) {
+    background-color: 	#7fcdff;
+  }
+  
+  .active {
+    background-color: #04AA6D;
+  }
