@@ -1,34 +1,30 @@
 body {
-    background-image: url("Pics/BG.jpg");
+	font-family: Arial, sans-serif;
+	background-color: #f4f4f4;
+}
+h1 {
+    text-align: center;
+	color: #003399;
+}
+.container {
+    margin: 50px auto;
+	max-width: 800px;
+	background-color: #fff;
+	padding: 20px;
+	border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+img {
+	display: block;
+	margin: 0 auto;
+	max-width: 100%;
+}
+p {
+    text-align: justify;
+	line-height: 1.5;
+	margin: 20px 0;
 }
 
 img {
     width: 1000px;
 }
-
-body {
-			font-family: Arial, sans-serif;
-			background-color: #f4f4f4;
-		}
-		h1 {
-			text-align: center;
-			color: #003399;
-		}
-		.container {
-			margin: 50px auto;
-			max-width: 800px;
-			background-color: #fff;
-			padding: 20px;
-			border-radius: 10px;
-			box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
-		}
-		img {
-			display: block;
-			margin: 0 auto;
-			max-width: 100%;
-		}
-		p {
-			text-align: justify;
-			line-height: 1.5;
-			margin: 20px 0;
-		}
